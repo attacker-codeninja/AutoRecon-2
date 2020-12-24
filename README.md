@@ -8,6 +8,6 @@ In order for the script to work, you need:
 - Amass
 - Httprobe 
 
-Install:
-In order to install, just run the following command:
-gh repo clone evanRubinsteinIT/AutoRecon
+Installation:
+
+https://github.com/evanRubinsteinIT/AutoRecon.git
