@@ -9,5 +9,7 @@ In order for the script to work, you need:
 - Httprobe 
 
 Installation:
-
-https://github.com/evanRubinsteinIT/AutoRecon.git
+- Ensure that you have the git command installed 
+- Run the command: git clone https://github.com/evanRubinsteinIT/AutoRecon.git
+- Navigate into the installed folder, and run the command: chmod +x AutoRecon.sh
+- In order to finally use the script, run the command ./AutoRecon.sh 
